@@ -5,3 +5,6 @@ v2 edit
 v3 edit again
 
 this is on the new-text branch
+
+new-feature => this is created after merging of the first new-text branch and then deleting the new-text branch both locally and remotely
+
